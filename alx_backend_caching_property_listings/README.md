@@ -126,3 +126,5 @@ Repo:
 
 GitHub repository: alx-backend-caching_property_listings
 File: properties/utils.py
+
+yes
